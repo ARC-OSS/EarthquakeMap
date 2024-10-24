@@ -1,4 +1,4 @@
-
+![Logo](https://cdn.discordapp.com/attachments/1191205417527803907/1298970487111811113/earthquake_logo.png?ex=671b8009&is=671a2e89&hm=b89e09240c7bb3058bd0c37595b0ebb17fbf3b11eb071712cab2d38fef3bdfc2&)
 # Earthquake Map
 
 An android application that uses the earthquake.usgs.gov api to allow users to browse recent earthquakes of note (5.5+ magnitude) and their attributes. Tapping on these earthquakes shows a map of the earthquake location, radius estimate and user gps dot.
